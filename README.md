@@ -1,4 +1,4 @@
-# [WINFORM] QUẢN LÝ HÀNG BÁN XE MÁY
+# [WINFORM] QUẢN LÝ CỬA HÀNG BÁN XE MÁY
 # THÀNH VIÊN
 <ol>
   <li>Nguyễn Lê Hữu Thắng</li>
